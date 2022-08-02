@@ -1,0 +1,5 @@
+1 - Abra um terminal dentro da pasta onde está o arquivo de entrada e o trabalho_final_tec.py
+
+2 - Rode: python3 trabalho_final_tec.py
+
+3 - A execução irá gerar o arquivo fileName_semi_infinita.out (Pode-se alterar o arquivo de entrada na linha 117 do arquivo trabalho_final_tec.py, fazendo com que se possa testar com outras entradas)
